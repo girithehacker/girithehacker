@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/girithehacker"><img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="https://linkedin.com/in/girithehacker"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tryhackme.com/p/GiriPrasath33"><img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://www.linkedin.com/in/giriprasath2007/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:prasathgiri371@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -136,10 +136,9 @@ Instead of stopping at tutorials, I run my own **vulnerable VM labs**, work thro
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/giriprasath2007/"><img src="https://img.shields.io/badge/LinkedIn-girithehacker-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://tryhackme.com/p/GiriPrasath33"><img src="https://img.shields.io/badge/TryHackMe-girithehacker-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="https://twitter.com/girithehacker"><img src="https://img.shields.io/badge/Twitter-girithehacker-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:prasathgiri371@gmail.com"><img src="https://img.shields.io/badge/Email-youremail%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/giriprasath2007/"><img src="https://img.shields.io/badge/LinkedIn-GIRI PRASATH M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://tryhackme.com/p/GiriPrasath33"><img src="https://img.shields.io/badge/TryHackMe-giriPrasath33-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="mailto:prasathgiri371@gmail.com"><img src="https://img.shields.io/badge/Email-prasathgiri371%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
