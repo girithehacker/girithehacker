@@ -1,80 +1,92 @@
-<h1 align="center">Hi 👋, I'm Giri</h1>
-<h3 align="center">Cybersecurity Enthusiast | Aspiring Penetration Tester</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Breaking+things+to+learn+how+to+fix+them;Learning+Network+Security+%26+Pentesting;Python+%7C+Linux+%7C+Bash+Scripting;Always+Curious%2C+Always+Hacking+(Ethically)" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Giri+%F0%9F%91%8B;Penetration+Tester;Cybersecurity+Learner;Breaking+Things+to+Build+Better+Defenses" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=girithehacker&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/girithehacker?label=Follow&style=social" alt="followers" />
+  <a href="https://github.com/girithehacker?tab=followers">
+    <img src="https://img.shields.io/github/followers/girithehacker?label=Followers&style=social" alt="followers" />
+  </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🛡️ About Me
 
-Name: Giri Prasath M
-Role: Pentester
-Focus: Red Team | Offensive Security | Pentesting | Vulnerability Assessment
-Location: Tamil Nadu, India
-Status: Open to Work
-Strength: Hands-on pentesting lab + real time Web Applicatiob testing + BugBounty
+```bash
+girithehacker@kali:~$ whoami
+> Pentester | Bug Hunter | Cybersecurity Learner
+
+girithehacker@kali:~$ cat goals.txt
+> Continuously learning offensive security (OSCP path)
+> Exploring web app pentesting, network security & red teaming
+> Documenting CTF writeups & vulnerability research
+> Contributing to open-source security tools
+```
+
+- 🔭 Currently sharpening skills in **Web App Pentesting** & **Network Exploitation**
+- 🌱 Learning **Active Directory attacks**, **Red Teaming**, and **OSINT**
+- 🛠️ Playing CTFs on **TryHackMe**, **HackTheBox**, and **PicoCTF**
+- 💬 Ask me about **Burp Suite, Nmap, Metasploit, Wireshark, Linux**
+- ⚡ Fun fact: I break things to learn how to defend them better
+
 ---
 
-### 🛠️ Tools & Skills
+### 🧰 Arsenal / Tools & Tech
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-success?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-> ✏️ *Replace/add badges above with your actual toolset — e.g. John the Ripper, Hydra, SQLmap, Aircrack-ng, Cobalt Strike, etc.*
+---
+
+### 🏆 Certifications & Learning Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PicoCTF-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OSCP-In_Progress-orange?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=girithehacker&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girithehacker&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=girithehacker&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girithehacker&theme=react&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girithehacker&theme=radical" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girithehacker&theme=react-dark" alt="activity graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girithehacker&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girithehacker&theme=react-dark&hide_border=true" alt="activity graph" width="48%"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=girithehacker&theme=radical&no-frame=true&row=1&column=7" />
+  <a href="https://www.linkedin.com/in/girithehacker"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/girithehacker"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/your-profile" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red" /></a>
-  <a href="https://app.hackthebox.com/profile/your-id" target="_blank"><img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF00&height=120&section=footer"/>
 </p>
 
----
-
-<p align="center"><i>⚠️ Disclaimer: All hacking activity is for educational and authorized testing purposes only.</i></p>
+<h3 align="center">"The quieter you become, the more you are able to hear." 🛰️</h3>
