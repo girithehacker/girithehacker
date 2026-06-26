@@ -14,13 +14,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🛡️ Currently learning **Cybersecurity** & **Ethical Hacking / Penetration Testing**
-- 🔍 Interested in **Network Security, Web App Security, and Vulnerability Assessment**
-- 🧰 Practicing on **TryHackMe / HackTheBox** labs
-- 🐍 Comfortable scripting in **Python** and **Bash**
-- 🌱 Currently exploring: **Active Directory attacks, OSCP-style methodology**
-- 📫 Reach me: *(add your email/LinkedIn here)*
-
+Name: Giri Prasath M
+Role: Pentester
+Focus: Red Team | Offensive Security | Pentesting | Vulnerability Assessment
+Location: Tamil Nadu, India
+Status: Open to Work
+Strength: Hands-on pentesting lab + real time Web Applicatiob testing + BugBounty
 ---
 
 ### 🛠️ Tools & Skills
