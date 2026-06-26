@@ -1,6 +1,6 @@
 <!-- Premium Animated GitHub Profile README -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,30:dc2626,70:991b1b,100:ef4444&text=Giri Prasath M&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Penetration%20Tester%20%7C%20Red%20Team%20%7C%20Vulnerability%20Research%20%7C%20Cybersecurity%20Learner&descAlignY=56&animation=twinkling" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,30:dc2626,70:991b1b,100:ef4444&text=Giri%20Prasath%20M&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Penetration%20Tester%20%7C%20Red%20Team%20%7C%20Vulnerability%20Research%20%7C%20Cybersecurity%20Learner&descAlignY=56&animation=twinkling" alt="header" />
 
 <h1 align="center">👋 Hey, I'm Giri </h1>
 
