@@ -1,8 +1,9 @@
 <!-- Premium Animated GitHub Profile README -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,30:dc2626,70:991b1b,100:ef4444&text=Giri%20Prasath%20M&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Penetration%20Tester%20%7C%20Red%20Team%20%7C%20Vulnerability%20Research%20%7C%20Cybersecurity%20Learner&descAlignY=56&animation=twinkling" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,30:dc2626,70:991b1b,100:ef4444&text=Giri%20Prasath%20M&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Penetration%20Tester%20%7C%20Red%20Team%20%7C%20Vulnerability%20Research%20%7C%20Offensive%20Security&descAlignY=56&animation=twinkling" alt="header" />
 
-<h1 align="center">👋 Hey, I'm Giri </h1>
+
+<h1 align="center">👋 Hey, I'm Giri</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=Penetration+Tester+%E2%80%A2+Cybersecurity+Learner;Burp+Suite+%E2%80%A2+Nmap+%E2%80%A2+Metasploit+%E2%80%A2+Wireshark;Web+App+Pentesting+%E2%80%A2+Network+Exploitation+%E2%80%A2+OSINT;Breaking+Things+to+Build+Better+Defenses;TryHackMe+%E2%80%A2+HackTheBox+%E2%80%A2+CTF+Player" alt="typing intro" />
@@ -26,8 +27,8 @@
 
 ```yaml
 Name: Giri
-Role: Penetration Tester 
-Focus: Offensive Security | Pentesting | Red Team | Vulnerability Research
+Role: Penetration Tester
+Focus: Offensive Security | Pentesting | Bug Bounty | Red Team
 Location: Tamil Nadu, India
 Status: Open to Work / Internship
 Strength: Hands-on CTF practice + real lab pentesting + offensive tooling
@@ -72,22 +73,6 @@ Instead of stopping at tutorials, I run my own **vulnerable VM labs**, work thro
 
 ## 🚀 Featured Work
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>🏠 Pentest Home Lab</h3>
-      <p><strong>Offensive security lab</strong> built to practice real-world attack chains against vulnerable machines.</p>
-      <ul>
-        <li>Kali Linux attacker box + vulnerable VMs (VulnHub / custom builds)</li>
-        <li>Network scanning and enumeration with Nmap, Nikto, Gobuster</li>
-        <li>Exploitation practice with Metasploit and manual payload crafting</li>
-        <li>Documented write-ups for every machine: recon to root</li>
-      </ul>
-      <p><strong>Example scenarios:</strong> SQL Injection, Privilege Escalation, Active Directory Attacks, Reverse Shells, Web App Exploitation.</p>
-      <a href="https://github.com/girithehacker"><img src="https://img.shields.io/badge/GitHub-Pentest_Lab-181717?style=for-the-badge&logo=github&logoColor=ef4444" alt="Pentest Lab Repo" /></a>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -151,10 +136,10 @@ Instead of stopping at tutorials, I run my own **vulnerable VM labs**, work thro
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/girithehacker"><img src="https://img.shields.io/badge/LinkedIn-girithehacker-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://tryhackme.com/p/girithehacker"><img src="https://img.shields.io/badge/TryHackMe-girithehacker-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://www.linkedin.com/in/giriprasath2007/"><img src="https://img.shields.io/badge/LinkedIn-girithehacker-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://tryhackme.com/p/GiriPrasath33"><img src="https://img.shields.io/badge/TryHackMe-girithehacker-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
   <a href="https://twitter.com/girithehacker"><img src="https://img.shields.io/badge/Twitter-girithehacker-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-youremail%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:prasathgiri371@gmail.com"><img src="https://img.shields.io/badge/Email-youremail%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -166,3 +151,6 @@ Instead of stopping at tutorials, I run my own **vulnerable VM labs**, work thro
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,30:dc2626,70:991b1b,100:ef4444" alt="footer" />
+
+
+
